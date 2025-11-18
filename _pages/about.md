@@ -18,14 +18,14 @@ redirect_from:
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+我的名字是cfwjbf，年龄18岁。住在江西大学的宿舍区一带，未婚。我在酱梨上上学，每天最晚8点半下晚自习回寝。我不抽烟，酒仅浅尝辄止。晚上12点睡觉，保证睡足7小时。睡前喝一杯温水，然后做0分钟的舒缓运动暖身再睡觉，基本能熟睡到天亮。像sb一样，绝对把疲劳和压力留到第二天。连医生都说我不正常。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+我只是想说，我这个人别无奢求，只希望能够心情平静的活下去。胜负，输赢是我最不喜欢计较的。因为，那只会为自己弄来麻烦和敌人。我就是这样知足的人，这也是我的人生观。
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+但是，若一定要动手的话，我是会输给任何人的。
+
+嘛，完全不会社交的废物，计算机能力依托的废物，要是能只待在宿舍睡大觉就好了喵~
+！[睡大觉喵](C:\ZZH\video\picture)
 
 Getting started
 ======
