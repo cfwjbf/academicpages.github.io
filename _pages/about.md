@@ -16,46 +16,40 @@ redirect_from:
 嘛，完全不会社交的废物，计算机能力依托的废物，要是能只待在宿舍睡大觉就好了喵~
 ！[睡大觉喵](C:\ZZH\video\picture)
 
-A data-driven personal website
-======
-我的名字是cfwjbf，年龄18岁。住在江西大学的宿舍区一带，未婚。我在酱梨上上学，每天最晚8点半下晚自习回寝。我不抽烟，酒仅浅尝辄止。晚上12点睡觉，保证睡足7小时。睡前喝一杯温水，然后做0分钟的舒缓运动暖身再睡觉，基本能熟睡到天亮。像sb一样，绝对把疲劳和压力留到第二天。连医生都说我不正常。
+不用往下看了喵，懒狗不愿做了喵
 
-我只是想说，我这个人别无奢求，只希望能够心情平静的活下去。胜负，输赢是我最不喜欢计较的。因为，那只会为自己弄来麻烦和敌人。我就是这样知足的人，这也是我的人生观。
+====================================
 
-但是，若一定要动手的话，我是会输给任何人的。
 
-嘛，完全不会社交的废物，计算机能力依托的废物，要是能只待在宿舍睡大觉就好了喵~
-！[睡大觉喵](C:\ZZH\video\picture)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![怎么还是来了](C:\ZZH\video\picture\38798CA5F31F89C57976B025CEE697B5.jpg)
+![这么叛逆](C:\ZZH\video\picture\1000021186.jpg)
+![呜...](C:\ZZH\video\picture\8b17823b00f1a59262.jpg)
+![那好吧](C:\ZZH\video\picture\img_-2094179901_1692260870029.jpeg)
+![给你看点吧](C:\ZZH\video\picture\CA3FD54BBA4BF33A09016A82D3C4A768.jpg)
+![像我这种](C:\ZZH\video\picture\DA9A5364E60DF3BDFD0E3C714EA442D5.gif)
+![不会聊天的人](C:\ZZH\video\picture\CC36777BE49F16158C211460A09D2B5E.jpeg)
+![在网上都不敢说话啊](C:\ZZH\video\picture\1692527187404.jpg)
