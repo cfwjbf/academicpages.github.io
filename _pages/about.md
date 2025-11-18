@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+我的名字是cfwjbf，年龄18岁。住在江西大学的宿舍区一带，未婚。我在酱梨上上学，每天最晚8点半下晚自习回寝。我不抽烟，酒仅浅尝辄止。晚上12点睡觉，保证睡足7小时。睡前喝一杯温水，然后做0分钟的舒缓运动暖身再睡觉，基本能熟睡到天亮。像sb一样，绝对把疲劳和压力留到第二天。连医生都说我不正常。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我只是想说，我这个人别无奢求，只希望能够心情平静的活下去。胜负，输赢是我最不喜欢计较的。因为，那只会为自己弄来麻烦和敌人。我就是这样知足的人，这也是我的人生观。
+
+但是，若一定要动手的话，我是会输给任何人的。
+
+嘛，完全不会社交的废物，计算机能力依托的废物，要是能只待在宿舍睡大觉就好了喵~
+！[睡大觉喵](C:\ZZH\video\picture)
 
 A data-driven personal website
 ======
